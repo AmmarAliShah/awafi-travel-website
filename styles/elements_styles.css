@@ -238,7 +238,7 @@ section {
   left: 0;
   width: 200%;
   height: 100%;
-  background: linear-gradient(to right, #df1a23, #8d4fff, #df1a23);
+  background: linear-gradient(to right, #df1a23, #000000, #df1a23);
   z-index: -1;
   -webkit-transition: all 400ms ease;
   -moz-transition: all 400ms ease;
@@ -462,7 +462,7 @@ section {
   bottom: -11px;
   width: calc(100% + 2px);
   height: 2px;
-  background: linear-gradient(to right, #df1a23, #8d4fff);
+  background: linear-gradient(to right, #df1a23, #000000);
   content: "";
   opacity: 0;
   -webkit-transition: all 200ms ease;
@@ -570,7 +570,7 @@ section {
   position: fixed;
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(to right, #df1a23, #8d4fff);
+  background: linear-gradient(to right, #df1a23, #000000);
   z-index: 100;
   opacity: 0;
   visibility: hidden;
